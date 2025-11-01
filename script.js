@@ -28,10 +28,10 @@ function toggleMenu() {
   document.addEventListener("DOMContentLoaded", function () {
       var typed = new Typed("#typed-text", {
           strings: [
-              "Expert in HTML, CSS, and JavaScript: Building User-Friendly Interfaces!",
-              "Front-End Developer: Creating Beautiful & Interactive Websites!",
-              "SDET | Automating Quality, Enhancing Reliability",
-              "SDET: Making Software Faster, Smarter, and Bug-Free"
+              "HR Specialist: Driving Talent, Culture, and Organizational Success!",
+              "HR Enthusiast: Cultivating Employee Growth & Organizational Success!",
+              "Talent Sourcer | Finding the Best, Powering Success",
+              "HR Policy Specialist: Shaping Workplaces that are Fair, Compliant, and Strong!"
           ],
           typeSpeed: 50,  // Speed of typing
           backSpeed: 25,  // Speed of erasing
@@ -87,6 +87,7 @@ scrollToTopBtn.addEventListener("click", function () {
         behavior: "smooth"
     });
 });
+
 
 
 
